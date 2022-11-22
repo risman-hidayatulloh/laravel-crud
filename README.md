@@ -1,6 +1,7 @@
 ![Screenshot from 2022-11-22 17-03-18](https://user-images.githubusercontent.com/38617629/203286132-b1b76324-548e-4f64-b5c4-55bbf477f550.png)
 
 `http://127.0.0.1:8000/products`
+`https://laravel-crud-risman.vercel.app/` proses
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
